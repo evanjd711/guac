@@ -10,8 +10,8 @@ import (
 	"os"
 	"strconv"
 
+	"github.com/evanjd711/guac"
 	"github.com/sirupsen/logrus"
-	"github.com/wwt/guac"
 )
 
 var (
